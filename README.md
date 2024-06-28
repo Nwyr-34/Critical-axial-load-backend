@@ -1,1 +1,2 @@
-# Nwyr-34-Critical-axial-load-ecuation
+# Critical-axial-load-ecuation
+
